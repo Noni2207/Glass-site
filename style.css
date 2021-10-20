@@ -176,8 +176,8 @@ main{
         bottom: 1%;
         left: 1%;
     }
-}
-    @media screen and (max-width:1104px){
+
+    }@media screen and (max-width:1104px){
         .glass{
             background: white;
             min-height: 80vh;
@@ -214,7 +214,7 @@ main{
             height: 7rem;
             
         }
-    } 
+        
     @media screen and (max-width:991px){
         .glass{
             background: white;
@@ -244,7 +244,7 @@ main{
             height: 7rem;
             
         }
-    }
+    
     @media screen and (max-width:947px){
         .glass{
             background: white;
@@ -281,7 +281,7 @@ main{
             width: 7rem;
             height: 7rem;
         }
-    }
+        
     @media screen and (max-width: 770px){ 
            .glass{
             background: white;
@@ -319,7 +319,6 @@ main{
             width: 5rem;
             height: 5rem;
         }
-    }
            
     @media screen and (max-width: 690px){
        
@@ -358,7 +357,7 @@ main{
             width: 4rem;
             height: 4rem;
         }
-    }
+    
     @media screen and (max-width: 500px){
         
         .glass{
@@ -397,7 +396,6 @@ main{
             width: 4rem;
             height: 4rem;
         }
-    }
      @media screen and (max-width: 320px){
         .glass{
             background: white;
@@ -433,4 +431,4 @@ main{
             width: 4rem;
             height: 4rem;
         }
-     }
+    }
